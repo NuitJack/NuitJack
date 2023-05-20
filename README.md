@@ -13,7 +13,7 @@
 
 - Currently, my biggest project posted here is a collaborative project on Object Oriented Programming, A game called Aminesia.
 
-[]See it's repository here
+[See it's repository here](https://github.com/Projetos-Enzo-e-Luisa-POO/projectsPOO/tree/main/amnesia)
 
 <!---
 NuitJack/NuitJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
