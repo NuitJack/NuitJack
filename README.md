@@ -1,19 +1,20 @@
-# Resume and self-presentation:
+# Enzo Campos - Profile
 
-- 👋 Hi, I’m Enzo Guimarães Campos, @NuitJack, but you can call me just Frost as well!
-- 👀 I’m interested in developing new stuff or just making my own conections on how to make something happen.
-- 🌱 I’m currently studying Computer Engeneering in UNICAMP, Brazil.
-- 💻 I have knowledge in Assembly, Python, C  and Java programming.
-- 💞️ I’m looking to collaborate on machine learning artificial intelligence models, and Neuroengineering projects.
-- 🎮 In my free time I enjoy some calm gaming vibes, or...
-- 🎧 ... enjoying some music! I have a really particular interest on ambience & background music, but many styles really do catch my attention!
-- 📫 How to reach me: E-mail me to enzogcampos02@gmail.com or DM to my instagram! @_froo.st
+Hello! My name is **Enzo Guimarães Campos**, and I'm currently a computer engineering undergraduate student at UNICAMP, Brazil. Although my main interest revolves around Brain Machine Interfaces, Neuroscience, Health data signal processing and Neural networks, the projects currently displayed here show more about my undergrad couse's assignments than what I am currently researching.
 
-# Projects and links
+Some details about myself:
+- I've already coded in ARM assembly language for microcontrolers, C, Java and HTML/CSS/JS for undergrad couses, but my main experience in research is with Python.
+- I'm currently part of the [**Viva Bem**](https://vivabem.unicamp.br/) team, and have already researched topics about Sleep disorders (such as RBD) and Anxiety. Sadly, still none of them made into a full paper, but we'll get there eventually.
+- I am really passionate about problem solving and love being creative. Don't show me anything that desperatly needs a solution, or I'll spend the whole day thinking about it. And if it's about the human brain, expect the topic to be around in my thoughts for a week or more.
+- I'm brazilian, natural of Santos-SP, although after many movings, my family settled down on Campinas when I was 10. I'm also a casual gamer and anime watcher, for I really love Japanese culture. I also play a bit of keyboard, but I'm far away from a professional pianist. My musician side ended up fueling my broad taste for music, with a peculiar favoritism to ambience and background lyric-less music.
 
-- Currently, my biggest project posted here is a collaborative project on Object Oriented Programming, A game called Aminesia.
+If you'd like to reach out to me, please e-mail me to [enzogcampos02@gmail.com](mailto:enzogcampos02@gmail.com) or DM me to my personal instagram [@_froo.st](https://www.instagram.com/_froo.st).
 
-[**See it's repository here**](https://github.com/Projetos-Enzo-e-Luisa-POO/projectsPOO/tree/main/amnesia)
+# Main Projects
+
+Currently, I have two big projects posted here:
+- A collaborative project I worked on for my undergrad's Object Oriented Programming couse, a game called [**Amnésia**](https://github.com/Projetos-Enzo-e-Luisa-POO/OOProjects/tree/main/amnesia);
+- Another collaborative electronics project, also for an undergrad course, that uses BLE to comunicate a RP pico W with an ESP32 for interfacing and controlling a 3D printed mechanical arm, named [**BitArm**](https://github.com/NuitJack/BitArm).
 
 <!---
 NuitJack/NuitJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
